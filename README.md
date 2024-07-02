@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding width="400" src="https://cdn.prod.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
-'
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1dfc9cb14c9c12aa854bef8273973dbb1d88065e1bea7c314f090b2ef83c43ab/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3563313931303063326235303037336536656536396461312f3630643335393637613835336131623134383531373033625f416c6c253230746865253230646174612532302831292e676966">
 
 - 🔭 I’m currently working on [Market Research & P&L Anlytics](https://github.com/anshuraj743/Sales-Analytics)
 
@@ -16,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anshu-k-95395617a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshu-k-95395617a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
